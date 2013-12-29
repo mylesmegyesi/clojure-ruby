@@ -13,8 +13,6 @@
   :profiles {:dev {:dependencies [[com.aphyr/prism "0.1.1"]]
                    :plugins [[com.aphyr/prism "0.1.1"]]}}
 
-  :java-source-paths ["src"]
-
   :main clojure.ruby.main
 
   )
